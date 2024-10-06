@@ -12,11 +12,11 @@ Este proyecto es un sistema de gestión de ventas que permite manejar clientes, 
 ## Instalación
 1. Clona el repositorio:
    ```bash
-   git clone [URL del repositorio]
+   git clone [https://github.com/JuanB12/activityBdVentas.git]
    ```
 2. Accede al directorio del proyecto:
    ```bash
-   cd [nombre-del-proyecto]
+   cd [ctivityBdVentas]
    ```
 3. Configura la base de datos y ejecuta el script SQL para crear las tablas y cargar datos.
 
